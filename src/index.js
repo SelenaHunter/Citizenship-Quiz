@@ -1,17 +1,27 @@
-import React from 'react';
+import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import QuestionContainer from './QuestionContainer';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+class App extends Component {
+	state = {
+		selectedState: "IA",
+	}
+	
+	render() {
+		return (
+			<div className="main-container">
+				<QuestionContainer />
+			</div>
+		)
+	}
+}
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+// const check20 = (function() {
+// 	return ("x")
+// 	// if (window.state.selectedState === "IA") {
+// 	// 	return ("https://en.wikipedia.org/wiki/List_of_current_members_of_the_Iowa_Senate")
+// 	// }
+// })();
+
+ReactDOM.render(<App />, document.getElementById('root'));
