@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/citizenship-quiz/static/css/main.c689a33e.chunk.css",
+    "main.js": "/citizenship-quiz/static/js/main.38dd31f6.chunk.js",
+    "main.js.map": "/citizenship-quiz/static/js/main.38dd31f6.chunk.js.map",
+    "runtime-main.js": "/citizenship-quiz/static/js/runtime-main.4d1ca5f6.js",
+    "runtime-main.js.map": "/citizenship-quiz/static/js/runtime-main.4d1ca5f6.js.map",
+    "static/js/2.76377e58.chunk.js": "/citizenship-quiz/static/js/2.76377e58.chunk.js",
+    "static/js/2.76377e58.chunk.js.map": "/citizenship-quiz/static/js/2.76377e58.chunk.js.map",
+    "index.html": "/citizenship-quiz/index.html",
+    "precache-manifest.013fe75f9572d47b3c3996e782277f86.js": "/citizenship-quiz/precache-manifest.013fe75f9572d47b3c3996e782277f86.js",
+    "service-worker.js": "/citizenship-quiz/service-worker.js",
+    "static/css/main.c689a33e.chunk.css.map": "/citizenship-quiz/static/css/main.c689a33e.chunk.css.map",
+    "static/js/2.76377e58.chunk.js.LICENSE.txt": "/citizenship-quiz/static/js/2.76377e58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d1ca5f6.js",
+    "static/js/2.76377e58.chunk.js",
+    "static/css/main.c689a33e.chunk.css",
+    "static/js/main.38dd31f6.chunk.js"
+  ]
+}
