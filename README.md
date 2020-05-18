@@ -10,7 +10,7 @@ The civics test might be hard, but hopefully this guide can make studying a litt
 
 ## Why Make This?
 
-A few reasons... I couldn't find any online study guides that I liked, and while I could have just made physical flashcards on paper, I wanted the practice thought this might be helpful!
+A few reasons... I couldn't find any online study guides that I liked, and while I could have just made physical flashcards on paper, I wanted the practice and thought this might be helpful!
 
 ## Built Using
 
